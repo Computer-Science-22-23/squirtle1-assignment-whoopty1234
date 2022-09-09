@@ -25,6 +25,7 @@ public class SquirtleBoard extends Board {
 	 	BulbasaurThing bulbasaur = new BulbasaurThing();
 	 	bulbasaur.setLocation(4, 0);
 	 	add(bulbasaur); 	
+	 	
 	}
 	
 } 
